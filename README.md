@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/mathe-man">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2f3b6b,100:7aa2f7&height=120&section=toper" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2f3b6b,100:7aa2f7&height=120&section=header" width="100%" alt="" />
 
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=90B7F5&center=true&vCenter=true&width=720&height=50&lines=Student+%26+developer;C%2B%2B+%C2%B7+C%23+%C2%B7+Python+%C2%B7+JavaScript;Aiming+for+software%2Ftool+dev+or+embedded%2Flow-level" alt="Typing animation" />
@@ -68,7 +68,9 @@ Don't hesitate to follow me or star some project to stay up to date.
 | [**Sacard-Jet ^**](https://github.com/mathe-man/Sacard-Jet) | 3D gravity simulation of multiple celestial bodies | `C#` |
 | [**NumMaths**](https://github.com/mathe-man/NumMaths) | MicroPython scripts for NumWorks calculators: calculus + the path to the solution | `Python` |
 
-> ^ Some of those projects may be old so the code might be of a lower quality and not rarely maintenaid
+> ^ Older projects: the code quality may be lower and they may not be actively maintained.
+
+
 ## GitHub stats
 
 <div align="center">
@@ -86,7 +88,7 @@ Don't hesitate to follow me or star some project to stay up to date.
 
 </div>
 
-## 📫 Get in touch
+## Get in touch 📫
 
 I'm **open to offers, requests and questions** — don't hesitate to write to me!
 
