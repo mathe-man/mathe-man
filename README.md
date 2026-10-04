@@ -52,12 +52,12 @@ Je suis Mathe, étudiant et développeur. Je poursuis mes études avec pour obje
   </tr>
   <tr>
     <td><b>Focus</b></td>
-    <td>ECS game-engine architecture · optical flow · embedded telemetry &amp; serial protocols · physics simulation · CLI &amp; desktop tools</td>
+    <td>ECS Engines architecture · Visualization · Embedded board design &amp; software · Scientific tools · CLI &amp; desktop tools</td>
   </tr>
 </table>
 
 ## Featured projects
-Don't hesitate to follow me or star some project to stay up to date.
+Don't hesitate to follow me or star some projects to stay up to date.
 
 | Project | What it is | Stack |
 |:--|:--|:--|
